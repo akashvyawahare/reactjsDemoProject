@@ -1,0 +1,32 @@
+.menu-items{
+    display: flex;
+    list-style: none;
+   
+}
+.menu-items>li{
+    padding: 20px;
+}
+.navbar{
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.product-card{
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.product{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 50vh;
+    width: 15vw;
+    text-align: center;
+    margin: 8px;
+}
+.product > img{
+    margin-top: 8px;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
