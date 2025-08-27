@@ -1,4 +1,5 @@
-.menu-items{
+@import "tailwindcss";
+/* .menu-items{
     display: flex;
     list-style: none;
    
@@ -30,3 +31,18 @@
     overflow: hidden;
     flex-wrap: wrap;
 }
+.outer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.skeleton{
+    border-radius: 10px;
+    height: 50vh;
+    width: 15vw;
+    text-align: center;
+    margin: 8px;
+    background-color: #f0f0f0f0;
+} */
+/* .search-feat{
+    margin-top: 10px;
+} */
